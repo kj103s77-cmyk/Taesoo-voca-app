@@ -1,0 +1,17 @@
+{
+  "name": "영어 기초 1200단어",
+  "short_name": "VOCA 1200",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4f46e5",
+  "description": "영어 기초 1200단어 학습 단어장 앱",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3898/3898012.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
